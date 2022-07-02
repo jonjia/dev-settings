@@ -1,0 +1,27 @@
+{
+  "recommendations": [
+    "antfu.browse-lite",
+    "antfu.file-nesting",
+    "antfu.goto-alias",
+    "antfu.iconify",
+    "antfu.smart-clicks",
+    "antfu.unocss",
+    "antfu.vite",
+    "dbaeumer.vscode-eslint",
+    "eamodio.gitlens",
+    "GitHub.copilot",
+    "GitHub.vscode-pull-request-github",
+    "golang.go",
+    "humao.rest-client",
+    "MS-CEINTL.vscode-language-pack-zh-hans",
+    "naumovs.color-highlight",
+    "richie5um2.vscode-sort-json",
+    "streetsidesoftware.code-spell-checker",
+    "teabyii.ayu",
+    "unional.vscode-sort-package-json",
+    "usernamehw.errorlens",
+    "Vue.volar",
+    "Vue.vscode-typescript-vue-plugin",
+    "znck.grammarly"
+  ]
+}

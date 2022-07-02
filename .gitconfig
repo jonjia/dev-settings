@@ -1,0 +1,9 @@
+[user]
+	name = jonjia
+	email = jiawenhuiwar3@163.com
+[includeIf "gitdir:~/work/"]
+	path = .gitconfig-work
+[pull]
+	ff = only
+[init]
+	defaultBranch = main
