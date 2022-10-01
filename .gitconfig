@@ -7,3 +7,7 @@
 	ff = only
 [init]
 	defaultBranch = main
+[diff]
+  tool = "vscode-insiders"
+[difftool "vscode-insiders"]
+  cmd = code-insiders --wait --diff $LOCAL $REMOTE

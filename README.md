@@ -4,6 +4,7 @@
 
 ## iTerm2:
 
+- Preferences-Appearances-Theme: Minimal
 - [color-preset](https://iterm2colorschemes.com/)
 - [Misterioso.itermcolors](https://raw.githubusercontent.com/mbadolato/iTerm2-Color-Schemes/master/schemes/Misterioso.itermcolors)
 

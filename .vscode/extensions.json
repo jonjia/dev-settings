@@ -1,6 +1,5 @@
 {
   "recommendations": [
-    "antfu.browse-lite",
     "antfu.file-nesting",
     "antfu.goto-alias",
     "antfu.iconify",
@@ -9,14 +8,15 @@
     "antfu.vite",
     "dbaeumer.vscode-eslint",
     "eamodio.gitlens",
+    "esbenp.prettier-vscode",
     "GitHub.copilot",
     "GitHub.vscode-pull-request-github",
     "golang.go",
     "humao.rest-client",
-    "MS-CEINTL.vscode-language-pack-zh-hans",
     "naumovs.color-highlight",
     "richie5um2.vscode-sort-json",
     "streetsidesoftware.code-spell-checker",
+    "stylelint.vscode-stylelint",
     "teabyii.ayu",
     "unional.vscode-sort-package-json",
     "usernamehw.errorlens",
