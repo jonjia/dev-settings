@@ -49,6 +49,7 @@ mkdir -p ~/.config/ghostty
 cat > ~/.config/ghostty/config.ghostty <<'EOF'
 theme = Misterioso
 font-size = 16
+window-inherit-working-directory = false
 EOF
 ```
 - **Shell**: Nushell
@@ -121,6 +122,13 @@ brew install --cask google-chrome
 ```bash
 # very fast python package manager
 brew install uv
+# Shell autocompletion
+^uv --generate-shell-completion nushell | save -f ~/.config/nushell/completions/uv.nu
+^uvx --generate-shell-completion nushell | save -f ~/.config/nushell/completions/uvx.nu
+
+# .config/nushell/config.nu
+source ~/.config/nushell/uv.nu
+source ~/.config/nushell/uvx.nu
 
 # install the latest python
 uv python install 3.12
@@ -151,4 +159,10 @@ brew install codex
 
 ```bash
 brew install --cask codex-app
+```
+
+- **Typeless**
+
+```bash
+brew install --cask typeless
 ```
